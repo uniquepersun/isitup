@@ -1,7 +1,7 @@
-url: $UCPendpoint
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-16T09:01:03.037Z
+url: $UCPEND
+status: up
+code: 401
+responseTime: 459
+lastUpdated: 2024-12-16T09:03:28.109Z
 startTime: 2024-12-16T09:01:03.028Z
 generator: Upptime <https://github.com/upptime/upptime>
