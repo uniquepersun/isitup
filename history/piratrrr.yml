@@ -1,7 +1,7 @@
 url: $UCPEND
-status: down
-code: 502
-responseTime: 608
-lastUpdated: 2024-12-16T11:16:43.983Z
+status: up
+code: 401
+responseTime: 656
+lastUpdated: 2024-12-16T11:28:19.825Z
 startTime: 2024-12-16T09:04:05.275Z
 generator: Upptime <https://github.com/upptime/upptime>
